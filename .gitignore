@@ -1,0 +1,11 @@
+dataset/
+*.h5
+class_names.json
+confusion_matrix.png
+classification_report.txt
+gradcam_output.png
+__pycache__/
+*.pyc
+venv/
+.env
+.DS_Store
